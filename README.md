@@ -2,12 +2,6 @@
 
 ## 🧑‍💻 AI-ML Applied Researcher
 
-Specializing in ASR, NLP, and LLMs | Building AI products at scale
-
-- 🔭 Currently working on multimodal AI systems
-- 🌱 Exploring responsible AI and safety frameworks
-- 📫 Reach me at: [email] or [LinkedIn]
-
 ## 🔬 Areas of Expertise
 
 | | |
