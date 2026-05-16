@@ -15,11 +15,11 @@ Specializing in ASR, NLP, and LLMs | Building AI products at scale
 
 | | |
 |---|---|
-| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> &nbsp;&nbsp;&nbsp;• *Hinglish ASR Model* [🔗](link) | **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU <br> &nbsp;&nbsp;&nbsp;• *Voicebot Framework* [🔗](link) |
+| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony <br> &nbsp;&nbsp;&nbsp;• *Hinglish ASR Model* [🔗](link) | **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU <br> &nbsp;&nbsp;&nbsp;• *Voicebot Framework* [🔗](link) |
 
 | | |
 |---|---|
-| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> &nbsp;&nbsp;&nbsp;• *Hinglish ASR Model* [🔗](link) | **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU <br> &nbsp;&nbsp;&nbsp;• *Voicebot Framework* [🔗](link) |
+| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> &nbsp;&nbsp;&nbsp;• *Hinglish ASR Model* [🔗](link) | **💬 Conversational AI - Voice** <br> End-to-end voicebot systems <br> &nbsp;&nbsp;&nbsp;• *Voicebot Framework* [🔗](link) |
 
 | | |
 |---|---|
