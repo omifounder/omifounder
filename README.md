@@ -1,6 +1,13 @@
 # Hi I'm Om Sonie 👋
 
 ## 🧑‍💻 Applied Researcher
+
+Specializing in ASR, NLP, and LLMs | Building AI products at scale
+
+- 🔭 Currently working on multimodal AI systems
+- 🌱 Exploring responsible AI and safety frameworks
+- 📫 Reach me at: [email] or [LinkedIn]
+
 <!--
 **omifounder/omifounder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
