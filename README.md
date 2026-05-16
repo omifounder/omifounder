@@ -22,6 +22,37 @@
 ---
 
 ## 🔬 Patents
+## 🔬 Patents
+
+### Granted Patents
+
+- **Conversational AI System and Method** - Indian Patent No. 527909 (2024) [🔗](https://ipindiaonline.gov.in/patentsearch/patsearch/viewApplicationStatus.do?applicationNo=527909)  
+  *Innovation in conversational AI for e-commerce applications at Flipkart*
+
+- **System and Method for Generating a Response to a User Query** - US Patent Application No. US20230015321 [🔗](https://patents.google.com/patent/US20230015321)  
+  *Automated query response generation using conversational AI*
+
+- **Method and System to Enhance e-Discovery by Custodian Ranking** - US Patent No. 9,483,550 [🔗](https://patents.google.com/patent/US9483550)  
+  *Advanced ranking methods for electronic discovery systems*
+
+- **System and Methods for Prioritising Review of Items** - US Patent No. 8,355,922 [🔗](https://patents.google.com/patent/US8355922)  
+  *Intelligent prioritization framework for item review*
+
+- **Fun with Chess** - US Patent Application No. US20140225323 [🔗](https://patents.google.com/patent/US20140225323)  
+  *Game innovation and interactive chess system*
+
+### Patent Applications Under Review
+
+- **System and Method for Automatically Providing a Response to One or More User Utterances** - Indian Patent Application No. 202241033766  
+  *Automated multi-turn conversational response system*
+
+- **System and Method for Providing an Automatically Generated Interactive Response** - Indian Patent Application No. 202241007266  
+  *Interactive AI response generation framework*
+
+- **System and Method for Generating a Response to a User Query** - Indian Patent Application No. 202141030950  
+  *User query understanding and response generation*
+
+---
 
 - **Conversational AI System and Method** - Indian Patent No. 527909 (2024) [🔗](https://ipindiaonline.gov.in/patentsearch/patsearch/viewApplicationStatus.do?applicationNo=527909)  
   *Innovation in conversational AI for e-commerce applications at Flipkart*
