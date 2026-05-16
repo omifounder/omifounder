@@ -14,7 +14,7 @@ Specializing in ASR, NLP, and LLMs | Building AI products at scale
 |---|---|
 | **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> • Hinglish ASR Model [↗](link) <br> • Benchmarking Tool [↗](link) <br> • Demo [↗](link) | **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU <br> • Voicebot Framework [→](link) <br> • Telephony Integration [→](link) <br> • Demo [→](link) |
 | **🎭 Conversational AI - Multimodal** <br> Vision, speech, and language integration <br> • VSLA Assistant [↗](link) <br> • Multimodal Demo [↗](link) | **🎯 Recommendation Systems** <br> LLM-powered personalization <br> • RecSys Framework [→](link) <br> • E-commerce App [→](link) |
-| **📢 Ads & Sponsored Content** <br> Multimodal ads ranking at scale <br> • Ranking Model [↗](link) <br> • Meta Research [↗](link) | **🤖 AI Safety & Responsible AI** <br> Evaluation frameworks and safety playbooks <br> • Safety Framework [→](link) <br> • Eval Lab [→](link) |
+| **📢 Ads & Sponsored Content** <br> Multimodal ads ranking at scale <br> • Ranking Model [↗](link) <br> • Meta Research [🔗](link) | **🤖 AI Safety & Responsible AI** <br> Evaluation frameworks and safety playbooks <br> • Safety Framework [🔗](link) <br> • Eval Lab [🔗](link) |
 
 external link
 |  |  |
