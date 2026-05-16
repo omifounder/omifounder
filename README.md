@@ -35,7 +35,7 @@
 - **System and Methods for Prioritising Review of Items** - US Patent No. 8,355,922 [🔗](https://patents.google.com/patent/US8355922)  
   *Intelligent prioritization framework for item review*
 
-- **Fun with Chess** - US Patent (USPTO) [🔗](link)  
+- **Fun with Chess** - US Patent (USPTO) [🔗](https://patents.google.com/patent/US20140225323)  
   *Game innovation and interactive chess system*
   
 ## 📝 Selected Publication
