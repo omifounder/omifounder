@@ -16,52 +16,6 @@ Specializing in ASR, NLP, and LLMs | Building AI products at scale
 | **🎭 Conversational AI - Multimodal** <br> Vision, speech, and language integration <br> &nbsp;&nbsp;&nbsp;• VSLA Assistant [🔗](link) <br> &nbsp;&nbsp;&nbsp;• Multimodal Demo [🔗](link) | **🎯 Recommendation Systems** <br> LLM-powered personalization <br> &nbsp;&nbsp;&nbsp;• RecSys Framework [🔗](link) <br> &nbsp;&nbsp;&nbsp;• E-commerce App [🔗](link) |
 | **📢 Ads & Sponsored Content** <br> Multimodal ads ranking at scale <br> &nbsp;&nbsp;&nbsp;• Ranking Model [🔗](link) <br> &nbsp;&nbsp;&nbsp;• Meta Research [🔗](link) | **🤖 AI Safety & Responsible AI** <br> Evaluation frameworks and safety playbooks <br> &nbsp;&nbsp;&nbsp;• Safety Framework [🔗](link) <br> &nbsp;&nbsp;&nbsp;• Eval Lab [🔗](link) |
 
-
-|  |  |
-|---|---|
-| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> • Hinglish ASR Model [🔗](link) <br> • Benchmarking Tool [🔗](link) <br> • Demo [🔗](link) | **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU <br> • Voicebot Framework [🔗](link) <br> • Telephony Integration [🔗](link) <br> • Demo [🔗](link) |
-| **🎭 Conversational AI - Multimodal** <br> Vision, speech, and language integration <br> • VSLA Assistant [🔗](link) <br> • Multimodal Demo [🔗](link) | **🎯 Recommendation Systems** <br> LLM-powered personalization <br> • RecSys Framework [🔗](link) <br> • E-commerce App [🔗](link) |
-| **📢 Ads & Sponsored Content** <br> Multimodal ads ranking at scale <br> • Ranking Model [🔗](link) <br> • Meta Research [🔗](link) | **🤖 AI Safety & Responsible AI** <br> Evaluation frameworks and safety playbooks <br> • Safety Framework [🔗](link) <br> • Eval Lab [🔗](link) |
-
-|  |  |
-|---|---|
-| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> • Hinglish ASR Model [↗](link) <br> • Benchmarking Tool [↗](link) <br> • Demo [↗](link) | **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU <br> • Voicebot Framework [→](link) <br> • Telephony Integration [→](link) <br> • Demo [→](link) |
-| **🎭 Conversational AI - Multimodal** <br> Vision, speech, and language integration <br> • VSLA Assistant [↗](link) <br> • Multimodal Demo [↗](link) | **🎯 Recommendation Systems** <br> LLM-powered personalization <br> • RecSys Framework [→](link) <br> • E-commerce App [→](link) |
-| **📢 Ads & Sponsored Content** <br> Multimodal ads ranking at scale <br> • Ranking Model [↗](link) <br> • Meta Research [🔗](link) | **🤖 AI Safety & Responsible AI** <br> Evaluation frameworks and safety playbooks <br> • Safety Framework [🔗](link) <br> • Eval Lab [🔗](link) |
-
-external link
-|  |  |
-|---|---|
-| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> • Hinglish ASR Model [↗](link) <br> • Benchmarking Tool [↗](link) <br> • Demo [↗](link) | **💬 Conversational AI - Voice** <br> End-to-end voicebot systems <br> • Voicebot Framework [↗](link) <br> • Telephony Integration [↗](link) |
-
-• Hinglish ASR Model [🔗](link)
-• Benchmarking Tool [🔗](link)
-
-
-option4
-|  |  |
-|---|---|
-| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> • Hinglish ASR Model ([repo](link)) <br> • Benchmarking Tool ([repo](link)) <br> • Demo ([live](link)) | **💬 Conversational AI - Voice** <br> End-to-end voicebot systems <br> • Voicebot Framework ([repo](link)) <br> • Telephony Integration ([repo](link)) |
-
-option 1
-|  |  |
-|---|---|
-| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> • <a href="link" style="color: #666;">Hinglish ASR Model</a> <br> • <a href="link" style="color: #666;">Benchmarking Tool</a> <br> • <a href="link" style="color: #666;">Demo</a> | ... |
-
-option 5
-|  |  |
-|---|---|
-| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> • [`Hinglish ASR Model`](link) <br> • [`Benchmarking Tool`](link) <br> • [`Demo`](link) | **💬 Conversational AI - Voice** <br> End-to-end voicebot systems <br> • [`Voicebot Framework`](link) <br> • [`Telephony Integration`](link) |
-
-| Domain | Projects & Resources |
-|--------|---------------------|
-| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR systems for telephony and low-resource languages including Hinglish | • [Project 1](link) <br> • [ASR Benchmarking Tool](link) <br> • [Hinglish ASR Model](link) |
-| **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU and dialogue management | • [Voicebot Framework](link) <br> • [Telephony Integration](link) <br> • [Demo](link) |
-| **🎭 Conversational AI - Multimodal** <br> Integrating vision, speech, and language (VSLA models) | • [Multimodal Assistant](link) <br> • [VSLA Integration](link) <br> • [Demo](link) |
-| **🎯 Recommendation Systems** <br> Personalization and ranking using LLMs and collaborative filtering | • [LLM-based Recommender](link) <br> • [E-commerce Recommendations](link) |
-| **📢 Ads & Sponsored Content** <br> Multimodal ads ranking and optimization at scale | • [Ads Ranking Model](link) <br> • [Meta Ads Research](link) |
-| **🤖 AI Safety & Responsible AI** <br> Building evaluation frameworks and safety playbooks | • [Safety Framework](link) <br> • [Evaluation Lab](link) |
-
 ---
 
 ## 📚 Research Focus
