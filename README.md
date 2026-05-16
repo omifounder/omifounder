@@ -10,8 +10,8 @@ Specializing in ASR, NLP, and LLMs | Building AI products at scale
 
 ## 🔬 Areas of Expertise
 
-| | |
-|**🎙️ Automatic Speech Recognition (ASR)**|---|
+| **🎙️ Automatic Speech Recognition (ASR)**| |
+|---|---|
 | **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> &nbsp;&nbsp;&nbsp;• Hinglish ASR Model [🔗](link) | **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU <br> &nbsp;&nbsp;&nbsp;• Voicebot Framework [🔗](link) |
 | **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> &nbsp;&nbsp;&nbsp;• Hinglish ASR Model [🔗](link) <br> &nbsp;&nbsp;&nbsp;• Benchmarking Tool [🔗](link) <br> &nbsp;&nbsp;&nbsp;• Demo [🔗](link) | **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU <br> &nbsp;&nbsp;&nbsp;• Voicebot Framework [🔗](link) <br> &nbsp;&nbsp;&nbsp;• Telephony Integration [🔗](link) <br> &nbsp;&nbsp;&nbsp;• Demo [🔗](link) |
 | **🎭 Conversational AI - Multimodal** <br> Vision, speech, and language integration <br> &nbsp;&nbsp;&nbsp;• VSLA Assistant [🔗](link) <br> &nbsp;&nbsp;&nbsp;• Multimodal Demo [🔗](link) | **🎯 Recommendation Systems** <br> LLM-powered personalization <br> &nbsp;&nbsp;&nbsp;• RecSys Framework [🔗](link) <br> &nbsp;&nbsp;&nbsp;• E-commerce App [🔗](link) |
