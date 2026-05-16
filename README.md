@@ -28,7 +28,7 @@
 - "Multimodal Learning for E-commerce Recommendations" - *RecSys 2025* [🔗](link)
 - **[Journal Article]** - "Hinglish ASR for Telephony Applications" - *Journal, Year* [🔗](link)
 - **[Workshop Paper]** - "Energy-Based Models for Dialogue Systems" - *Workshop, Year* [🔗](link)
-- **[RecSys2019]** - "Energy-Based Models for Dialogue Systems" - *Workshop, Year* [🔗]()
+- **[RecSys2019]** - "Energy-Based Models for Dialogue Systems" - *Workshop, Year* []()
 
 
 ---
