@@ -10,24 +10,78 @@ Specializing in ASR, NLP, and LLMs | Building AI products at scale
 
 ## 🔬 Areas of Expertise
 ## with html
+## 🔬 Areas of Expertise
 
 ### **Speech & Voice Technologies**
 
-| <div style="width:400px"></div> | <div style="width:400px"></div> |
-|---|---|
-| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> &nbsp;&nbsp;&nbsp;• *Hinglish ASR Model* [🔗](link) <br> &nbsp;&nbsp;&nbsp;• *Benchmarking Tool* [🔗](link) <br> &nbsp;&nbsp;&nbsp;• *Demo* [🔗](link) | **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU <br> &nbsp;&nbsp;&nbsp;• *Voicebot Framework* [🔗](link) <br> &nbsp;&nbsp;&nbsp;• *Telephony Integration* [🔗](link) <br> &nbsp;&nbsp;&nbsp;• *Demo* [🔗](link) |
+<table>
+<tr>
+<td width="50%">
+
+**🎙️ Automatic Speech Recognition (ASR)** <br>
+Building robust ASR for telephony and low-resource languages <br>
+&nbsp;&nbsp;&nbsp;• *Hinglish ASR Model* [🔗](link) <br>
+&nbsp;&nbsp;&nbsp;• *Benchmarking Tool* [🔗](link) <br>
+&nbsp;&nbsp;&nbsp;• *Demo* [🔗](link)
+
+</td>
+<td width="50%">
+
+**💬 Conversational AI - Voice** <br>
+End-to-end voicebot systems with NLU <br>
+&nbsp;&nbsp;&nbsp;• *Voicebot Framework* [🔗](link) <br>
+&nbsp;&nbsp;&nbsp;• *Telephony Integration* [🔗](link) <br>
+&nbsp;&nbsp;&nbsp;• *Demo* [🔗](link)
+
+</td>
+</tr>
+</table>
 
 ### **Multimodal AI & Personalization**
 
-| <div style="width:400px"></div> | <div style="width:400px"></div> |
-|---|---|
-| **🎭 Conversational AI - Multimodal** <br> Vision, speech, and language integration <br> &nbsp;&nbsp;&nbsp;• *VSLA Assistant* [🔗](link) <br> &nbsp;&nbsp;&nbsp;• *Multimodal Demo* [🔗](link) | **🎯 Recommendation Systems** <br> LLM-powered personalization <br> &nbsp;&nbsp;&nbsp;• *RecSys Framework* [🔗](link) <br> &nbsp;&nbsp;&nbsp;• *E-commerce App* [🔗](link) |
+<table>
+<tr>
+<td width="50%">
+
+**🎭 Conversational AI - Multimodal** <br>
+Vision, speech, and language integration <br>
+&nbsp;&nbsp;&nbsp;• *VSLA Assistant* [🔗](link) <br>
+&nbsp;&nbsp;&nbsp;• *Multimodal Demo* [🔗](link)
+
+</td>
+<td width="50%">
+
+**🎯 Recommendation Systems** <br>
+LLM-powered personalization <br>
+&nbsp;&nbsp;&nbsp;• *RecSys Framework* [🔗](link) <br>
+&nbsp;&nbsp;&nbsp;• *E-commerce App* [🔗](link)
+
+</td>
+</tr>
+</table>
 
 ### **Ads & Responsible AI**
 
-| <div style="width:400px"></div> | <div style="width:400px"></div> |
-|---|---|
-| **📢 Ads & Sponsored Content** <br> Multimodal ads ranking at scale <br> &nbsp;&nbsp;&nbsp;• *Ranking Model* [🔗](link) <br> &nbsp;&nbsp;&nbsp;• *Meta Research* [🔗](link) | **🤖 AI Safety & Responsible AI** <br> Evaluation frameworks and safety playbooks <br> &nbsp;&nbsp;&nbsp;• *Safety Framework* [🔗](link) <br> &nbsp;&nbsp;&nbsp;• *Eval Lab* [🔗](link) |
+<table>
+<tr>
+<td width="50%">
+
+**📢 Ads & Sponsored Content** <br>
+Multimodal ads ranking at scale <br>
+&nbsp;&nbsp;&nbsp;• *Ranking Model* [🔗](link) <br>
+&nbsp;&nbsp;&nbsp;• *Meta Research* [🔗](link)
+
+</td>
+<td width="50%">
+
+**🤖 AI Safety & Responsible AI** <br>
+Evaluation frameworks and safety playbooks <br>
+&nbsp;&nbsp;&nbsp;• *Safety Framework* [🔗](link) <br>
+&nbsp;&nbsp;&nbsp;• *Eval Lab* [🔗](link)
+
+</td>
+</tr>
+</table>
 
 one
 ## 🔬 Areas of Expertise
