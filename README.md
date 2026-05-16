@@ -21,14 +21,15 @@
 
 ---
 
-## 📝 Selected Publications
-
-**Patents & Papers:**
+## 📝 Patents
 - **[Patent Title]** - Description of innovation in ASR/NLP domain (2024)
-- **[Conference Paper]** - "Multimodal Learning for E-commerce Recommendations" - *Conference Name, Year*
+  
+## 📝 Selected Publication
+**Patents & Papers:**
+- **[Recsys2025]** - "Multimodal Learning for E-commerce Recommendations" - *Conference Name, Year*
 - **[Journal Article]** - "Hinglish ASR for Telephony Applications" - *Journal, Year*
 - **[Workshop Paper]** - "Energy-Based Models for Dialogue Systems" - *Workshop, Year*
+- **[RecSys2019]** - "Energy-Based Models for Dialogue Systems" - *Workshop, Year*
 
-📄 [View all publications →](link-to-full-list)
 
 ---
