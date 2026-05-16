@@ -50,21 +50,6 @@
   *User query understanding and response generation*
 
 ---
-
-- **Conversational AI System and Method** - Indian Patent No. 527909 (2024) [🔗](https://ipindiaonline.gov.in/patentsearch/patsearch/viewApplicationStatus.do?applicationNo=527909)  
-  *Innovation in conversational AI for e-commerce applications at Flipkart*
-
-- **Conversational AI Applications** - Patent Application Pending (Under Review)  
-  *Two applications under review for conversational AI innovations*
-
-- **Method and System to Enhance e-Discovery by Custodian Ranking** - US Patent No. 9,483,550 [🔗](https://patents.google.com/patent/US9483550)  
-  *Advanced ranking methods for electronic discovery systems*
-
-- **System and Methods for Prioritising Review of Items** - US Patent No. 8,355,922 [🔗](https://patents.google.com/patent/US8355922)  
-  *Intelligent prioritization framework for item review*
-
-- **Fun with Chess** - US Patent (USPTO) [🔗](https://patents.google.com/patent/US20140225323)  
-  *Game innovation and interactive chess system*
   
 ## 📝 Selected Publications
 
