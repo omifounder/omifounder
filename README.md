@@ -14,7 +14,7 @@
 
 | Research Area | Description | Links |
 |--------------|-------------|-------|
-| **Energy-Based Models for AI** | Exploring EBM approaches for reasoning and decision-making | • [Paper](link) <br> • [Code](link) |
+| **Energy-Based Models for AI** | Exploring EBM approaches for reasoning and decision-making | • [refer](https://github.com/omifounder/EBM---Energy-Based-Models/) |
 | **AI Consciousness & Ethics** | Integrating spiritual frameworks into responsible AI design | • [Article](link) <br> • [Framework](link) |
 
 ---
