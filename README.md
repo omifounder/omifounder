@@ -10,6 +10,10 @@ Specializing in ASR, NLP, and LLMs | Building AI products at scale
 
 ## 🔬 Areas of Expertise
 
+|--------|---------------------|
+| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR systems for telephony and low-resource languages including Hinglish • [Project 1](link) <br> • [ASR Benchmarking Tool](link) <br> • [Hinglish ASR Model](link) |
+| **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU and dialogue management • [Voicebot Framework](link) <br> • [Telephony Integration](link) <br> • [Demo](link) |
+
 | Domain | Projects & Resources |
 |--------|---------------------|
 | **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR systems for telephony and low-resource languages including Hinglish | • [Project 1](link) <br> • [ASR Benchmarking Tool](link) <br> • [Hinglish ASR Model](link) |
