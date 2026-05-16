@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> &nbsp;&nbsp;&nbsp;• Hinglish ASR Model [🔗]((https://github.com/omifounder/ASR-2021-Classical-to-Transformer/blob/main/ASR2021.pdf) <br><br>| **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU <br> &nbsp;&nbsp;&nbsp;• Voicebot Framework [🔗](https://inventvalley.com/om.html) <br><br>|
+| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> &nbsp;&nbsp;&nbsp;• Hinglish ASR Model [🔗](https://github.com/omifounder/ASR-2021-Classical-to-Transformer/blob/main/ASR2021.pdf) <br><br>| **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU <br> &nbsp;&nbsp;&nbsp;• Voicebot Framework [🔗](https://inventvalley.com/om.html) <br><br>|
 | **🎭 Conversational AI - Multimodal** <br> Vision, speech, and language integration <br> &nbsp;&nbsp;&nbsp;• VSLA Assistant [🔗](link) <br> &nbsp;&nbsp;&nbsp;• Multimodal Demo [🔗](link) | **🎯 Recommendation Systems** <br> LLM-powered personalization <br> &nbsp;&nbsp;&nbsp;• RecSys Framework [🔗](link) <br> &nbsp;&nbsp;&nbsp;• E-commerce App [🔗](link) |
 | **📢 Ads & Sponsored Content** <br> Multimodal ads ranking at scale <br> &nbsp;&nbsp;&nbsp;• Ranking Model [🔗](link) <br> &nbsp;&nbsp;&nbsp;• Meta Research [🔗](link) | **🤖 AI Safety & Responsible AI** <br> Evaluation frameworks and safety playbooks <br> &nbsp;&nbsp;&nbsp;• Safety Framework [🔗](link) <br> &nbsp;&nbsp;&nbsp;• Eval Lab [🔗](link) |
 
