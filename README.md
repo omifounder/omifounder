@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Om Sonie ## 🧑‍💻 AI-ML Applied Researcher
+# 👋 Hi, I'm Om Sonie 🧑‍💻 AI-ML Applied Researcher
 
 ## 🔬 Areas of Expertise
 
