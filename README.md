@@ -22,11 +22,10 @@
 ---
 
 ## 🔬 Patents
-## 🔬 Patents
 
 ### Granted Patents
 
-- **Conversational AI System and Method** - Indian Patent No. 527909 (2024) [🔗](https://ipindiaonline.gov.in/patentsearch/patsearch/viewApplicationStatus.do?applicationNo=527909)  
+- **Conversational AI System and Method** - Indian Patent No. 527909 (2024)  
   *Innovation in conversational AI for e-commerce applications at Flipkart*
 
 - **System and Method for Generating a Response to a User Query** - US Patent Application No. US20230015321 [🔗](https://patents.google.com/patent/US20230015321)  
