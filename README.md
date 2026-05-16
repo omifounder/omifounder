@@ -25,7 +25,6 @@
 - **[Patent Title]** - Description of innovation in ASR/NLP domain (2024)
   
 ## 📝 Selected Publication
-**Patents & Papers:**
 - "Multimodal Learning for E-commerce Recommendations" - *RecSys 2025* [🔗](link)
 - **[Journal Article]** - "Hinglish ASR for Telephony Applications" - *Journal, Year* [🔗](link)
 - **[Workshop Paper]** - "Energy-Based Models for Dialogue Systems" - *Workshop, Year* [🔗](link)
