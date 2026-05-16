@@ -1,8 +1,4 @@
-# Hi I'm Om Sonie 👋
-
-## 🧑‍💻 Applied Researcher
-
-# 👋 Hi, I'm Vinay Chetnani
+# 👋 Hi, I'm Om Sonie
 
 ## 🧑‍💻 Senior Machine Learning Engineer
 
