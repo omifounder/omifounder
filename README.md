@@ -2,6 +2,10 @@
 
 ## 🧑‍💻 Applied Researcher
 
+# 👋 Hi, I'm Vinay Chetnani
+
+## 🧑‍💻 Senior Machine Learning Engineer
+
 Specializing in ASR, NLP, and LLMs | Building AI products at scale
 
 - 🔭 Currently working on multimodal AI systems
