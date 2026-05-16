@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Om Sonie
 
-## 🧑‍💻 Senior Machine Learning Engineer
+## 🧑‍💻 AI-ML Applied Researcher
 
 Specializing in ASR, NLP, and LLMs | Building AI products at scale
 
