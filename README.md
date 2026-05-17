@@ -91,7 +91,7 @@
 </table>
 
 ---
-
+<br>
 ## 🧠 Research Focus
 ### 📊 Integrating spiritual frameworks into responsible AI design
 <table>
@@ -111,7 +111,7 @@
 
 ---
 
-## ⚡ EBM approaches for reasoning and decision-making
+### ⚡ EBM approaches for reasoning and decision-making
 <table>
   <tr>
     <td width="500"><b>Creator Driven Recommendation (2023)</b> <br> 
@@ -128,7 +128,7 @@
 </table>
 
 ---
-  
+<br>  
 ## 📚 Selected Publications
 
 | Year | Title | Venue | Paper |
@@ -145,7 +145,7 @@
 | 2018 | Concept to Code: Learning Distributed Representation for Heterogeneous Sources for Recommendation | RecSys | [🔗 ACM](https://dl.acm.org/doi/10.1145/3240323.3241617) |
 
 ---
-
+<br>
 ## 🔬 Patents
 
 ### Granted
