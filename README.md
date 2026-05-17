@@ -2,7 +2,7 @@
 
 ## 🔬 Areas of Expertise
 
-### 🎙️ Speech and Voice
+### 🎙️ Automatic Speech Recognition
 <table>
   <tr>
     <td width="500"><b>Hinglish Telephony - ASR (2026)</b> <br> 
@@ -20,15 +20,15 @@
 
 ---
 
-### 🎭 Conversational AI
+### 🎭 Conversational AI - Multimodal
 <table>
   <tr>
-    <td width="500"><b>Hinglish Telephony - ASR (2026)</b> <br> 
+    <td width="500"><b>Voice Agent (2025)</b> <br> 
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Hinglish ASR Model <a href="link">🔗</a></li>
         <li>Telephony Model <a href="link">🔗</a></li>      
     </td>
-    <td width="500"><b>Shopping Assitant - ASR (2021)</b><br>
+    <td width="500"><b>Multimodal Companion (2025)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Hinglish ASR Model <a href="link">🔗</a></li>
         <li>Telephony Model <a href="link">🔗</a></li>         
@@ -38,15 +38,15 @@
 
 ---
 
-### PPO, DPO, ORPO, GRPO - Prefernce Optimisation
+### 🤖 DPO, ORPO, GRPO - Prefernce Optimisation
 <table>
   <tr>
-    <td width="500"><b>Hinglish Telephony - ASR (2026)</b> <br> 
+    <td width="500"><b>Mental Health (2026)</b> <br> 
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Hinglish ASR Model <a href="link">🔗</a></li>
         <li>Telephony Model <a href="link">🔗</a></li>      
     </td>
-    <td width="500"><b>Shopping Assitant - ASR (2021)</b><br>
+    <td width="500"><b>Evaluation: DPO, ORPO, GRPO (2026)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Hinglish ASR Model <a href="link">🔗</a></li>
         <li>Telephony Model <a href="link">🔗</a></li>         
@@ -59,8 +59,34 @@
 ### Recommendation System
 <table>
   <tr>
-    <td width="500">| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> &nbsp;&nbsp;&nbsp;• Hinglish ASR Model [🔗](https://github.com/omifounder/ASR-2021-Classical-to-Transformer/blob/main/ASR2021.pdf) <br><br>| **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU <br> &nbsp;&nbsp;&nbsp;• Voicebot Framework [🔗](https://inventvalley.com/om.html) <br><br>|/td>
-    <td width="500">Conversational AI - Voice** <br> End-to-end voicebot systems with NLU</td>
+    <td width="500"><b>Creator Driven Recommendation (2023)</b> <br> 
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Hinglish ASR Model <a href="link">🔗</a></li>
+        <li>Telephony Model <a href="link">🔗</a></li>      
+    </td>
+    <td width="500"><b>Fashion Recommendation (2022)</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Hinglish ASR Model <a href="link">🔗</a></li>
+        <li>Telephony Model <a href="link">🔗</a></li>         
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Enterprise AI & Safety
+<table>
+  <tr>
+    <td width="500"><b>Creator Driven Recommendation (2023)</b> <br> 
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Hinglish ASR Model <a href="link">🔗</a></li>
+        <li>Telephony Model <a href="link">🔗</a></li>      
+    </td>
+    <td width="500"><b>Fashion Recommendation (2022)</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Hinglish ASR Model <a href="link">🔗</a></li>
+        <li>Telephony Model <a href="link">🔗</a></li>         
+    </td>
   </tr>
 </table>
 
