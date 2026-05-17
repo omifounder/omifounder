@@ -95,7 +95,7 @@
 <br>
 
 ## 🧠 Research Focus
-### 📊 Integrating spiritual frameworks into responsible AI design
+### 🕉️ Integrating spiritual frameworks into responsible AI design
 <table>
   <tr>
     <td width="500"><b>Creator Driven Recommendation (2023)</b> <br> 
