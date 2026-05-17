@@ -17,8 +17,16 @@
 
 <table>
   <tr>
-    <td width="500"><b>🎙️ Automatic Speech Recognition (ASR)</b> <br> Building robust ASR for telephony and low-resource languages</td>
-    <td width="500">Conversational AI - Voice** <br> End-to-end voicebot systems with NLU</td>
+    <td width="500"><b>🎙️ Automatic Speech Recognition (ASR)</b> <br> 
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Hinglish ASR Model <a href="link">🔗</a></li>
+        <li>Telephony Model <a href="link">🔗</a></li>      
+    </td>
+    <td width="500">Conversational AI - Voice** <br> End-to-end voicebot systems with NLU
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Hinglish ASR Model <a href="link">🔗</a></li>
+        <li>Telephony Model <a href="link">🔗</a></li>         
+    </td>
   </tr>
 </table>
 
