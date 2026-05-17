@@ -29,7 +29,7 @@
 ### Recommendation System
 <table>
   <tr>
-    <td width="500">**🎭 Conversational AI - Multimodal** <br> Vision, speech, and language integration</td>
+    <td width="500">| **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> &nbsp;&nbsp;&nbsp;• Hinglish ASR Model [🔗](https://github.com/omifounder/ASR-2021-Classical-to-Transformer/blob/main/ASR2021.pdf) <br><br>| **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU <br> &nbsp;&nbsp;&nbsp;• Voicebot Framework [🔗](https://inventvalley.com/om.html) <br><br>|/td>
     <td width="500">Conversational AI - Voice** <br> End-to-end voicebot systems with NLU</td>
   </tr>
 </table>
