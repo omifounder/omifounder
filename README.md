@@ -92,7 +92,7 @@
 
 ---
 
-## 📚 Research Focus
+## 🧠 Research Focus
 ### 📊 Integrating spiritual frameworks into responsible AI design
 <table>
   <tr>
@@ -111,7 +111,7 @@
 
 ---
 
-## Exploring EBM approaches for reasoning and decision-making
+## ⚡ EBM approaches for reasoning and decision-making
 <table>
   <tr>
     <td width="500"><b>Creator Driven Recommendation (2023)</b> <br> 
@@ -129,7 +129,7 @@
 
 ---
   
-## 📝 Selected Publications
+## 📚 Selected Publications
 
 | Year | Title | Venue | Paper |
 |------|-------|-------|-------|
