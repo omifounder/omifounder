@@ -10,6 +10,8 @@
   </tr>
 </table>
 
+---
+
 ### Conversational AI
 <table>
   <tr>
@@ -17,6 +19,8 @@
     <td width="500">Conversational AI - Voice** <br> End-to-end voicebot systems with NLU</td>
   </tr>
 </table>
+
+---
 
 ### PPO, DPO, ORPO, GRPO - Prefernce Optimisation
 <table>
@@ -26,6 +30,8 @@
   </tr>
 </table>
 
+---
+
 ### Recommendation System
 <table>
   <tr>
@@ -33,6 +39,8 @@
     <td width="500">Conversational AI - Voice** <br> End-to-end voicebot systems with NLU</td>
   </tr>
 </table>
+
+---
 
 ## 🎙️ Speech & Voice Technologies
 
