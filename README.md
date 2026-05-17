@@ -38,7 +38,7 @@
 
 ---
 
-### 🤖 DPO, ORPO, GRPO - Prefernce Optimisation
+### ⚖️ DPO, ORPO, GRPO - Prefernce Optimisation
 <table>
   <tr>
     <td width="500"><b>Mental Health (2026)</b> <br> 
@@ -56,7 +56,7 @@
 
 ---
 
-### Recommendation System
+### 🎯 Recommendation System
 <table>
   <tr>
     <td width="500"><b>Creator Driven Recommendation (2023)</b> <br> 
@@ -74,7 +74,7 @@
 
 ---
 
-## 📊 Enterprise AI & Safety
+### 📊 Enterprise AI & Safety
 <table>
   <tr>
     <td width="500"><b>Creator Driven Recommendation (2023)</b> <br> 
