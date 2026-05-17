@@ -18,6 +18,15 @@
 | **AI Consciousness & Ethics** | Integrating spiritual frameworks into responsible AI design |  |
 
 ---
+
+<table>
+  <tr>
+    <td width="50%">Left Column</td>
+    <td width="50%">Right Column</td>
+  </tr>
+</table>
+
+--
   
 ## 📝 Selected Publications
 
