@@ -3,6 +3,19 @@
 ## 🔬 Areas of Expertise
 
 ### Automatic Speech Recognition
+
+<table>
+<tr>
+<td><strong>ASR</strong></td>
+<td>
+  <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+    <li>Hinglish ASR Model <a href="link">🔗</a></li>
+    <li>Telephony Model <a href="link">🔗</a></li>
+  </ul>
+</td>
+</tr>
+</table>
+
 <table>
   <tr>
     <td width="500"><b>🎙️ Automatic Speech Recognition (ASR)</b> <br> Building robust ASR for telephony and low-resource languages</td>
