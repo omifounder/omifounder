@@ -21,8 +21,8 @@
 
 <table>
   <tr>
-    <td width="50%">Left Column</td>
-    <td width="50%">Right Column</td>
+    <td width="500">Voice Branch</td>
+    <td width="500">Text Branch</td>
   </tr>
 </table>
 
