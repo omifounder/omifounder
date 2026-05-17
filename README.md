@@ -93,29 +93,39 @@
 ---
 
 ## 📚 Research Focus
-
+### 📊 Integrating spiritual frameworks into responsible AI design
 <table>
   <tr>
-    <td width="500"><b>AI Consciousness & Ethics (2026)</b> <br> 
-      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Hinglish ASR Model <a href="[link](https://github.com/omifounder/EBM---Energy-Based-Models/)">🔗</a></li>
-        <li>Telephony Model <a href="link">🔗</a></li>
-      </ul>
-    </td>
-  </tr>
-    <td width="500"><b>Energy-Based Models for AI (2025)</b><br>
+    <td width="500"><b>Creator Driven Recommendation (2023)</b> <br> 
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Hinglish ASR Model <a href="link">🔗</a></li>
-        <li>Telephony Model <a href="link">🔗</a></li>
-      </ul>
+        <li>Telephony Model <a href="link">🔗</a></li>      
+    </td>
+    <td width="500"><b>Fashion Recommendation (2022)</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Hinglish ASR Model <a href="link">🔗</a></li>
+        <li>Telephony Model <a href="link">🔗</a></li>         
     </td>
   </tr>
 </table>
 
-| Research Area | Description | Links |
-|--------------|-------------|-------|
-| **** | Exploring EBM approaches for reasoning and decision-making | [refer]() |
-| **** | Integrating spiritual frameworks into responsible AI design |  |
+---
+
+## Exploring EBM approaches for reasoning and decision-making
+<table>
+  <tr>
+    <td width="500"><b>Creator Driven Recommendation (2023)</b> <br> 
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Hinglish ASR Model <a href="link">🔗</a></li>
+        <li>Telephony Model <a href="link">🔗</a></li>      
+    </td>
+    <td width="500"><b>Fashion Recommendation (2022)</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Hinglish ASR Model <a href="link">🔗</a></li>
+        <li>Telephony Model <a href="link">🔗</a></li>         
+    </td>
+  </tr>
+</table>
 
 ---
   
