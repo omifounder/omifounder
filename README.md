@@ -6,8 +6,7 @@
 
 <table>
 <tr>
-<td><strong>ASR</strong></td>
-<td><strong>ASR</strong></td>
+<td>
   <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
     <li>Hinglish ASR Model <a href="link">🔗</a></li>
     <li>Telephony Model <a href="link">🔗</a></li>
