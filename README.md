@@ -2,7 +2,7 @@
 
 ## 🔬 Areas of Expertise
 
-### 🎙️ Automatic Speech Recognition
+### 🎙️ Speech and Voice
 <table>
   <tr>
     <td width="500"><b>Hinglish Telephony - ASR (2026)</b> <br> 
