@@ -2,6 +2,38 @@
 
 ## 🔬 Areas of Expertise
 
+### Automatic Speech Recognition
+<table>
+  <tr>
+    <td width="500">**🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages</td>
+    <td width="500">Conversational AI - Voice** <br> End-to-end voicebot systems with NLU</td>
+  </tr>
+</table>
+
+### Conversational AI
+<table>
+  <tr>
+    <td width="500">**🎭 Conversational AI - Multimodal** <br> Vision, speech, and language integration</td>
+    <td width="500">Conversational AI - Voice** <br> End-to-end voicebot systems with NLU</td>
+  </tr>
+</table>
+
+### PPO, DPO, ORPO, GRPO - Prefernce Optimisation
+<table>
+  <tr>
+    <td width="500">**🎭 Conversational AI - Multimodal** <br> Vision, speech, and language integration</td>
+    <td width="500">Conversational AI - Voice** <br> End-to-end voicebot systems with NLU</td>
+  </tr>
+</table>
+
+### Recommendation System
+<table>
+  <tr>
+    <td width="500">**🎭 Conversational AI - Multimodal** <br> Vision, speech, and language integration</td>
+    <td width="500">Conversational AI - Voice** <br> End-to-end voicebot systems with NLU</td>
+  </tr>
+</table>
+
 | | |
 |---|---|
 | **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> &nbsp;&nbsp;&nbsp;• Hinglish ASR Model [🔗](https://github.com/omifounder/ASR-2021-Classical-to-Transformer/blob/main/ASR2021.pdf) <br><br>| **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU <br> &nbsp;&nbsp;&nbsp;• Voicebot Framework [🔗](https://inventvalley.com/om.html) <br><br>|
@@ -18,15 +50,6 @@
 | **AI Consciousness & Ethics** | Integrating spiritual frameworks into responsible AI design |  |
 
 ---
-
-<table>
-  <tr>
-    <td width="500">Voice Branch</td>
-    <td width="500">Text Branch</td>
-  </tr>
-</table>
-
---
   
 ## 📝 Selected Publications
 
