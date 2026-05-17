@@ -11,7 +11,7 @@
         <li>Hinglish ASR Model <a href="link">🔗</a></li>
         <li>Telephony Model <a href="link">🔗</a></li>      
     </td>
-    <td width="500"><b>🎙️ Shopping Assitant - ASR (2021)</b><br> End-to-end voicebot systems with NLU
+    <td width="500"><b>🎙️ Shopping Assitant - ASR (2021)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Hinglish ASR Model <a href="link">🔗</a></li>
         <li>Telephony Model <a href="link">🔗</a></li>         
