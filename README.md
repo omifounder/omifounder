@@ -34,6 +34,31 @@
   </tr>
 </table>
 
+## 🎙️ Speech & Voice Technologies
+
+| Area | Description | Projects |
+|------|-------------|----------|
+| **Automatic Speech Recognition (ASR)** | Building robust ASR for telephony and low-resource languages | • Hinglish ASR Model [🔗](https://github.com/omifounder/ASR-2021-Classical-to-Transformer/blob/main/ASR2021.pdf) |
+| **Conversational AI - Voice** | End-to-end voicebot systems with NLU | • Voicebot Framework [🔗](https://inventvalley.com/om.html) |
+
+---
+
+## 🤖 Multimodal AI & Personalization
+
+| Area | Description | Projects |
+|------|-------------|----------|
+| **Conversational AI - Multimodal** | Vision, speech, and language integration | • VSLA Assistant [🔗](link)<br>• Multimodal Demo [🔗](link) |
+| **Recommendation Systems** | LLM-powered personalization | • RecSys Framework [🔗](link)<br>• E-commerce App [🔗](link) |
+
+---
+
+## 📊 Enterprise AI & Safety
+
+| Area | Description | Projects |
+|------|-------------|----------|
+| **Ads & Sponsored Content** | Multimodal ads ranking at scale | • Ranking Model [🔗](link)<br>• Meta Research [🔗](link) |
+| **AI Safety & Responsible AI** | Evaluation frameworks and safety playbooks | • Safety Framework [🔗](link)<br>• Eval Lab [🔗](link) |
+
 | | |
 |---|---|
 | **🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages <br> &nbsp;&nbsp;&nbsp;• Hinglish ASR Model [🔗](https://github.com/omifounder/ASR-2021-Classical-to-Transformer/blob/main/ASR2021.pdf) <br><br>| **💬 Conversational AI - Voice** <br> End-to-end voicebot systems with NLU <br> &nbsp;&nbsp;&nbsp;• Voicebot Framework [🔗](https://inventvalley.com/om.html) <br><br>|
