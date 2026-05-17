@@ -5,7 +5,7 @@
 ### Automatic Speech Recognition
 <table>
   <tr>
-    <td width="500">**🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages</td>
+    <td width="500"><b>**🎙️ Automatic Speech Recognition (ASR)** <br> Building robust ASR for telephony and low-resource languages<b></td>
     <td width="500">Conversational AI - Voice** <br> End-to-end voicebot systems with NLU</td>
   </tr>
 </table>
