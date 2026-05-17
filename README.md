@@ -99,12 +99,15 @@
     <td width="500"><b>AI Consciousness & Ethics (2026)</b> <br> 
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Hinglish ASR Model <a href="[link](https://github.com/omifounder/EBM---Energy-Based-Models/)">🔗</a></li>
-        <li>Telephony Model <a href="link">🔗</a></li>      
+        <li>Telephony Model <a href="link">🔗</a></li>
+      </ul>
     </td>
+  </tr>
     <td width="500"><b>Energy-Based Models for AI (2025)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Hinglish ASR Model <a href="link">🔗</a></li>
-        <li>Telephony Model <a href="link">🔗</a></li>         
+        <li>Telephony Model <a href="link">🔗</a></li>
+      </ul>
     </td>
   </tr>
 </table>
