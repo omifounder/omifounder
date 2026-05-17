@@ -91,7 +91,9 @@
 </table>
 
 ---
+
 <br>
+
 ## 🧠 Research Focus
 ### 📊 Integrating spiritual frameworks into responsible AI design
 <table>
@@ -128,7 +130,9 @@
 </table>
 
 ---
-<br>  
+
+<br> 
+
 ## 📚 Selected Publications
 
 | Year | Title | Venue | Paper |
