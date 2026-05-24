@@ -92,7 +92,7 @@
     </td>
     <td width="500"><b>NLP Couse Notes (2021)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Prof. Pawan Goayl, IIT <a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation">↗</a></li>
+        <li>Prof. Pawan Goayl, IIT <a https://github.com/omifounder/NLP-course-notes">↗</a></li>
     </td>
   </tr>
 </table>
