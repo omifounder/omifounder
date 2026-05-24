@@ -2,7 +2,7 @@
 
 ## 🔬 Areas of Expertise
 
-### ❤️ On Device - Emotional Intelligence
+### 😊 On Device - Emotional Intelligence
 <table>
   <tr>
     <td width="500"><b>Evaluation: DPO, ORPO, GRPO</b><br>
