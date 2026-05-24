@@ -57,7 +57,7 @@
     </td>
     <td width="500"><b>RL Couse Notes (2021)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Prof. Balaraman Ravindran, IIT <a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation">↗</a></li>
+        <li>Prof. Balaraman Ravindran, IIT <a href="https://github.com/omifounder/RL-Course-Notes">↗</a></li>
     </td>
   </tr>
 </table>
