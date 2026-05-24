@@ -31,6 +31,25 @@
 
 ---
 
+<br>
+
+### 🛡️ LLM Evaluation
+<table>
+  <tr>
+    <td width="500"><b>Creator Driven Recommendation (2023)</b> <br> 
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Hinglish ASR Model <a href="link">↗</a></li>
+        <li>Telephony Model <a href="link">↗</a></li>      
+    </td>
+    <td width="500"><b>Fashion Recommendation (2022)</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Hinglish ASR Model <a href="link">↗</a></li>
+        <li>Telephony Model <a href="link">↗</a></li>         
+    </td>
+  </tr>
+</table>
+
+---
 ### 🔄 Reinforcement Learning: Theory & Resources
 <table>
   <tr>
@@ -76,26 +95,6 @@
     <td width="500"><b>NLP Couse Notes</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Prof. Pawan Goayl, IIT <a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation">↗</a></li>
-    </td>
-  </tr>
-</table>
-
----
-
-<br>
-
-### 🛡️ LLM Evaluation
-<table>
-  <tr>
-    <td width="500"><b>Creator Driven Recommendation (2023)</b> <br> 
-      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Hinglish ASR Model <a href="link">↗</a></li>
-        <li>Telephony Model <a href="link">↗</a></li>      
-    </td>
-    <td width="500"><b>Fashion Recommendation (2022)</b><br>
-      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Hinglish ASR Model <a href="link">↗</a></li>
-        <li>Telephony Model <a href="link">↗</a></li>         
     </td>
   </tr>
 </table>
