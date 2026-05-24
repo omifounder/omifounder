@@ -11,7 +11,7 @@
     </td>
     <td width="500"><b>Benchmarking: DPO, IPO, ORPO, GRPO (part-3)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Findings Summary <a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation">↗</a></li>
+        <li>Findings Summary <a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation-Part3/">↗</a></li>
     </td>
   </tr>
 </table>
