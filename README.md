@@ -46,6 +46,7 @@
 </table>
 
 ---
+<br>
 
 ### 🎙️ Automatic Speech Recognition
 <table>
@@ -98,6 +99,8 @@
 </table>
 
 ---
+
+<br>
 
 ### 🎯 Recommendation System
 <table>
