@@ -148,10 +148,9 @@
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Enable Understanding, Prediction and Planning <a href="https://arxiv.org/pdf/2506.09985">↗</a></li>      
     </td>
-    <td width="500"><b>Fashion Recommendation (2022)</b><br>
+    <td width="500"><b>VL-JEPA - Vision-language</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Hinglish ASR Model <a href="link">↗</a></li>
-        <li>Telephony Model <a href="link">↗</a></li>         
+        <li>Joint Embedding Predictive Architecture <a href="https://arxiv.org/pdf/2512.10942">↗</a></li>    
     </td>
   </tr>
 </table>
