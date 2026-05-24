@@ -72,8 +72,7 @@
   </tr>
   <tr>
     <td width="500"><b></b> <br> 
-      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>  </li>  
+
     </td>
     <td width="500"><b>InterSpeech: ASR (2021)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
