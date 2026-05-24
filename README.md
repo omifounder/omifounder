@@ -30,7 +30,7 @@
 </table>
 
 ---
-
+<!--
 ### 🛡️ AI Evaluation
 <table>
   <tr>
@@ -45,7 +45,7 @@
         <li>Telephony Model <a href="link">↗</a></li>         
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 ### 🔄 Reinforcement Learning: Theory & Resources
