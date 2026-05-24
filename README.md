@@ -106,7 +106,7 @@
 ### 🎙️ Automatic Speech Recognition
 <table>
   <tr>
-    <td width="500"><b>Hinglish Telephony - ASR (2026)</b> <br> 
+    <td width="500"><b>ASR - Hinglish Telephony (2026)</b> <br> 
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Hinglish ASR Model <a href="link">↗</a></li>   
     </td>
