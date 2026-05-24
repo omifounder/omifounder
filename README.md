@@ -46,7 +46,7 @@
 ---
 <br> 
 
-### 🎭 Conversational AI - Multimodal
+### 🎭 Conversational AI: Multimodal
 <table>
   <tr>
     <td width="500"><b>Voice Agent (2025)</b> <br> 
@@ -61,24 +61,6 @@
   </tr>
 </table>
 
-### 📝 NLP: Theory & Resources
-<table>
-  <tr>
-    <td width="500"><b>Concept - NLP </b><br>
-      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>NLP - Notes <a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>
-    </td>
-    <td width="500"><b>NLP Couse Notes (2021)</b><br>
-      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Prof. Pawan Goayl, IIT <a href="https://github.com/omifounder/NLP-course-notes">↗</a></li>
-    </td>
-  </tr>
-</table>
-
----
-
-<br>
-
 ### 🎙️ Automatic Speech Recognition
 <table>
   <tr>
@@ -89,6 +71,20 @@
     <td width="500"><b>ASR - Shopping Assitant (2021)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Hinglish ASR Model <a href="https://github.com/omifounder/ASR-2021-Classical-to-Transformer">↗</a></li>    
+    </td>
+  </tr>
+</table>
+
+### 📝 NLP: Theory & Resources
+<table>
+  <tr>
+    <td width="500"><b>Concept - NLP </b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>NLP - Notes <a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>
+    </td>
+    <td width="500"><b>NLP Couse Notes (2021)</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Prof. Pawan Goayl, IIT <a href="https://github.com/omifounder/NLP-course-notes">↗</a></li>
     </td>
   </tr>
 </table>
