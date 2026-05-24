@@ -18,11 +18,11 @@
 
 <table>
   <tr>
-    <td width="500"><b>Evaluation-2: DPO, ORPO, GRPO</b><br>
+    <td width="500"><b>Evaluation: DPO, ORPO, GRPO (part-2)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Evaluation Summary <a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/tree/main/dpo-orpo-grpo-part2">↗</a></li>     
     </td>
-    <td width="500"><b>Evaluation-1: DPO, ORPO, GRPO</b><br>
+    <td width="500"><b>Evaluation: DPO, ORPO, GRPO (part-1)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Findings Summary <a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation">↗</a></li>
     </td>
