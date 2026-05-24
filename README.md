@@ -5,11 +5,11 @@
 ### ⚖️ DPO, ORPO, GRPO - Prefernce Optimisation
 <table>
   <tr>
-    <td width="500"><b>Evaluation: DPO, ORPO, GRPO (2026)</b><br>
+    <td width="500"><b>Evaluation: DPO, ORPO, GRPO</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Findings Summary<a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>     
+        <li>Evaluation Summary<a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>     
     </td>
-    <td width="500"><b>Evaluation: DPO, ORPO, GRPO (2026)</b><br>
+    <td width="500"><b>Experiments: DPO, IPO, ORPO, GRPO</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Findings Summar<a href="[link](https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation)">↗</a></li>
         <li>Telephony Model <a href="link">↗</a></li>         
