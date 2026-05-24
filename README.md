@@ -83,7 +83,7 @@
         
 ---
 
-### 🔄 NLP: Theory & Resources
+### 📝 NLP: Theory & Resources
 <table>
   <tr>
     <td width="500"><b>Concept - NLP </b><br>
