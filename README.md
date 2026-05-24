@@ -53,7 +53,7 @@
 ### 🔄 Reinforcement Learning: Theory & Resources
 <table>
   <tr>
-    <td width="500"><b>Concept - Preference Optimisation </b><br>
+    <td width="500"><b>Preference Optimisation - Concept</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>PPO, DPO, ORPO, GRPO - Notes <a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>     
     </td>
