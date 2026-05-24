@@ -40,7 +40,7 @@
     </td>
     <td width="500"><b>RL Couse Notes</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Findings Summary <a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation">↗</a></li>
+        <li>Reinforcement Learning, IIT Madras, India. Prof. Balaraman Ravindran<a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation">↗</a></li>
     </td>
   </tr>
 </table>
