@@ -7,11 +7,11 @@
   <tr>
     <td width="500"><b>Evaluation: DPO, ORPO, GRPO</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Evaluation Summary<a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>     
+        <li>Evaluation Summary <a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>     
     </td>
     <td width="500"><b>Experiments: DPO, IPO, ORPO, GRPO</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Findings Summary<a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>
+        <li>Findings Summary <a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>
     </td>
   </tr>
 </table>
