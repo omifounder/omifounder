@@ -144,9 +144,9 @@
 ### JEPA - Joint Embedding Predictive Architecture 
 <table>
   <tr>
-    <td width="500"><b>Self-Supervised Video Models Enable Understanding, Prediction and Planning</b> <br> 
+    <td width="500"><b>V-JEPA2: Self-Supervised Video Models</b> <br> 
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Blog <a href="https://ai.meta.com/research/vjepa/">↗</a> Paper <a href="https://arxiv.org/pdf/2506.09985">↗</a></li>      
+        <li>Enable Understanding, Prediction and Planning - Paper <a href="https://arxiv.org/pdf/2506.09985">↗</a></li>      
     </td>
     <td width="500"><b>Fashion Recommendation (2022)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
