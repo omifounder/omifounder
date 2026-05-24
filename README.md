@@ -120,6 +120,8 @@
 
 ---
 
+<br>
+
 ### 🛡️ Safe AI
 <table>
   <tr>
