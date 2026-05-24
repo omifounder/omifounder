@@ -155,8 +155,6 @@
   </tr>
 </table>
 
----
-
 ### ⚡ EBM approaches for reasoning and decision-making
 <table>
   <tr>
