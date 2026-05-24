@@ -82,6 +82,20 @@
 </table>
         
 ---
+### 🔄 Reinforcement Learning - Theory
+<table>
+  <tr>
+    <td width="500"><b>Concept - NLP </b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>NLP - Notes <a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>     
+    </td>
+    <td width="500"><b>NLP Couse Notes</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Prof. Pawan Goayl, IIT <a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation">↗</a></li>
+    </td>
+  </tr>
+</table>
+---
 
 ### 🎯 Recommendation System
 <table>
