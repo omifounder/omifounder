@@ -60,8 +60,6 @@
     </td>
   </tr>
 </table>
-        
----
 
 ### 📝 NLP: Theory & Resources
 <table>
