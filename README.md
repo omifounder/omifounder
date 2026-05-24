@@ -31,9 +31,7 @@
 
 ---
 
-<br>
-
-### 🛡️ LLM Evaluation
+### 🛡️ AI Evaluation
 <table>
   <tr>
     <td width="500"><b>Creator Driven Recommendation (2023)</b> <br> 
