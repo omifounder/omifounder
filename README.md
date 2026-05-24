@@ -162,9 +162,9 @@
 ### ⚡ EBM approaches for reasoning and decision-making
 <table>
   <tr>
-    <td width="500"><b>Energy Based Models for Speech AI</b> <br> 
+    <td width="500"><b>Energy Based Models</b> <br> 
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Hinglish ASR Model <a href="https://github.com/omifounder/EBM---Energy-Based-Models">↗</a></li>   
+        <li>For Speech AI in Mental Health <a href="https://github.com/omifounder/EBM---Energy-Based-Models">↗</a></li>   
     </td>
     <td width="500"><b>Fashion Recommendation (2022)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
