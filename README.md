@@ -43,7 +43,7 @@
 ---
 <br> 
 
-### 🎭 Conversational AI: Multimodal
+### 🎭 Conversational AI: ASR + Multimodal
 <table>
   <tr>
     <td width="500"><b>Voice Agent (2025)</b> <br> 
