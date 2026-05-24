@@ -31,7 +31,7 @@
 
 ---
 
-### 😊 Reinforcement Learning - Theory
+### 🔄 Reinforcement Learning - Theory
 <table>
   <tr>
     <td width="500"><b>PPO, DPO, ORPO, GRPO</b><br>
