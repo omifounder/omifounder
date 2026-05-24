@@ -108,13 +108,11 @@
   <tr>
     <td width="500"><b>Hinglish Telephony - ASR (2026)</b> <br> 
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Hinglish ASR Model <a href="link">↗</a></li>
-        <li>Telephony Model <a href="link">↗</a></li>      
+        <li>Hinglish ASR Model <a href="link">↗</a></li>   
     </td>
     <td width="500"><b>ASR - Shopping Assitant (2021)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Hinglish ASR Model <a href="https://github.com/omifounder/ASR-2021-Classical-to-Transformer">↗</a></li>
-        <li>Telephony Model <a href="link">↗</a></li>         
+        <li>Hinglish ASR Model <a href="https://github.com/omifounder/ASR-2021-Classical-to-Transformer">↗</a></li>    
     </td>
   </tr>
 </table>
