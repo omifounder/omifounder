@@ -11,7 +11,7 @@
     </td>
     <td width="500"><b>Evaluation: DPO, ORPO, GRPO (2026)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Hinglish ASR Model <a href="link">↗</a></li>
+        <li>Hinglish ASR Model <a href="[link](https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation)">↗</a></li>
         <li>Telephony Model <a href="link">↗</a></li>         
     </td>
   </tr>
