@@ -164,10 +164,9 @@
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>For Speech AI in Mental Health <a href="https://github.com/omifounder/EBM---Energy-Based-Models">↗</a></li>   
     </td>
-    <td width="500"><b>Fashion Recommendation (2022)</b><br>
+    <td width="500"><b>LLM - JEPA</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Hinglish ASR Model <a href="link">↗</a></li>
-        <li>Telephony Model <a href="link">↗</a></li>         
+        <li>LLMs Meet JEPA <a href="https://arxiv.org/pdf/2509.14252">↗</a></li>    
     </td>
   </tr>
 </table>
