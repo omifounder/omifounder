@@ -55,7 +55,7 @@
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>PPO, DPO, ORPO, GRPO - Notes <a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>     
     </td>
-    <td width="500"><b>RL Couse Notes</b><br>
+    <td width="500"><b>RL Couse Notes (2021)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Prof. Balaraman Ravindran, IIT <a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation">↗</a></li>
     </td>
@@ -90,7 +90,7 @@
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>NLP - Notes <a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>     
     </td>
-    <td width="500"><b>NLP Couse Notes</b><br>
+    <td width="500"><b>NLP Couse Notes (2021)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Prof. Pawan Goayl, IIT <a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation">↗</a></li>
     </td>
