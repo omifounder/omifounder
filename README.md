@@ -10,6 +10,11 @@
         <li>Findings Summar<a href="[link](https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation)">↗</a></li>
         <li>Telephony Model <a href="link">↗</a></li>         
     </td>
+    <td width="500"><b>Evaluation: DPO, ORPO, GRPO (2026)</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Findings Summar<a href="[link](https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation)">↗</a></li>
+        <li>Telephony Model <a href="link">↗</a></li>         
+    </td>
   </tr>
 </table>
         
