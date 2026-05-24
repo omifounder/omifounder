@@ -14,9 +14,6 @@
         <li>Findings Summary <a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation-Part3/">↗</a></li>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td width="500"><b>Evaluation: DPO, ORPO, GRPO (part-2)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
