@@ -20,7 +20,7 @@
   <tr>
     <td width="500"><b>Evaluation-2: DPO, ORPO, GRPO</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Evaluation Summary <a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>     
+        <li>Evaluation Summary <a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/tree/main/dpo-orpo-grpo-part2">↗</a></li>     
     </td>
     <td width="500"><b>Evaluation-1: DPO, ORPO, GRPO</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
