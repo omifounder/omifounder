@@ -46,25 +46,7 @@
 </table>
 
 ---
-<br>
-
-### 🎙️ Automatic Speech Recognition
-<table>
-  <tr>
-    <td width="500"><b>Hinglish Telephony - ASR (2026)</b> <br> 
-      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Hinglish ASR Model <a href="link">↗</a></li>
-        <li>Telephony Model <a href="link">↗</a></li>      
-    </td>
-    <td width="500"><b>Shopping Assitant - ASR (2021)</b><br>
-      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Hinglish ASR Model <a href="link">↗</a></li>
-        <li>Telephony Model <a href="link">↗</a></li>         
-    </td>
-  </tr>
-</table>
-
----
+<br> 
 
 ### 🎭 Conversational AI - Multimodal
 <table>
@@ -94,6 +76,25 @@
     <td width="500"><b>NLP Couse Notes</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Prof. Pawan Goayl, IIT <a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation">↗</a></li>
+    </td>
+  </tr>
+</table>
+
+---
+<br>
+
+### 🎙️ Automatic Speech Recognition
+<table>
+  <tr>
+    <td width="500"><b>Hinglish Telephony - ASR (2026)</b> <br> 
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Hinglish ASR Model <a href="link">↗</a></li>
+        <li>Telephony Model <a href="link">↗</a></li>      
+    </td>
+    <td width="500"><b>Shopping Assitant - ASR (2021)</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Hinglish ASR Model <a href="link">↗</a></li>
+        <li>Telephony Model <a href="link">↗</a></li>         
     </td>
   </tr>
 </table>
