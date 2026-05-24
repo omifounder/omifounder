@@ -31,7 +31,7 @@
 
 ---
 
-### 🔄 Reinforcement Learning - Theory
+### 🔄 Reinforcement Learning: Theory & Resources
 <table>
   <tr>
     <td width="500"><b>Concept - Preference Optimisation </b><br>
@@ -82,7 +82,8 @@
 </table>
         
 ---
-### 🔄 Reinforcement Learning - Theory
+
+### 🔄 NLP: Theory & Resources
 <table>
   <tr>
     <td width="500"><b>Concept - NLP </b><br>
@@ -95,6 +96,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🎯 Recommendation System
