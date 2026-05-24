@@ -40,7 +40,7 @@
     </td>
     <td width="500"><b>RL Couse Notes</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Prof. Balaraman Ravindran, IIT Madras, India. <a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation">↗</a></li>
+        <li>Prof. Balaraman Ravindran, IIT <a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation">↗</a></li>
     </td>
   </tr>
 </table>
