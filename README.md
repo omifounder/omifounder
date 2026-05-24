@@ -15,7 +15,9 @@
     </td>
   </tr>
 </table>
-        
+
+---
+
 ### 🎙️ Automatic Speech Recognition
 <table>
   <tr>
