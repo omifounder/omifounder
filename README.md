@@ -2,7 +2,7 @@
 
 ## 🔬 Areas of Expertise
 
-### 😊 On Device - Emotional Intelligence
+### 😊 On Device - Emotional Intelligence (LLMs and SLMs)
 <table>
   <tr>
     <td width="500"><b>Evaluation: DPO, ORPO, GRPO (part-4)</b><br>
