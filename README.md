@@ -97,7 +97,7 @@
     </td>
     <td width="500"><b>Transformer, BERT, XL, XLNet (2019)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>KDD 2019<a href="https://github.com/omifounder/publications/blob/main/docs/KDD2019-3-Transformer-BERT-TransformerXL-XLNet(Om).pdf">↗</a></li>
+        <li>KDD 2019 <a href="https://github.com/omifounder/publications/blob/main/docs/KDD2019-3-Transformer-BERT-TransformerXL-XLNet(Om).pdf">↗</a></li>
     </td>
   </tr>
 </table>
