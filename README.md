@@ -35,7 +35,7 @@
     </td>
     <td width="500"><b>Deep RL for Conversational AI (2022)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>KDD 2022 <a href="https://github.com/omifounder/RL-Course-Notes">↗</a></li>
+        <li>KDD 2022 <a href="https://github.com/omifounder/publications/blob/main/docs/KDD2022_DeepRL_for_Conversational_AI-%20Handson_Tutorial_v2.pdf">↗</a></li>
     </td>
   </tr>
   <tr>
