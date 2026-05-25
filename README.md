@@ -113,10 +113,9 @@
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>RL Top-k Off Policy based Recommendation <a href="https://arxiv.org/pdf/1812.02353">↗</a></li> 
     </td>
-    <td width="500"><b>Fashion Recommendation (2022)</b><br>
+    <td width="500"><b>Top-k Off Policy resources</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Hinglish ASR Model <a href="link">↗</a></li>
-        <li>Telephony Model <a href="link">↗</a></li>         
+        <li> Additional Resources <a href="https://github.com/omifounder/publications/blob/main/docs/RL_Top-k%20Off-Policy_NOTES_Om.pdf">↗</a></li>      
     </td>
   </tr>
   <tr>
