@@ -21,7 +21,7 @@
     </td>
     <td width="500"><b>Evaluation: DPO, ORPO, GRPO (part-1)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Findings Summary <a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/tree/main/dpo-orpo-grpo-part1)">↗</a></li>
+        <li>Findings Summary <a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/tree/main/dpo-orpo-grpo-part1">↗</a></li>
     </td>
   </tr>
 </table>
