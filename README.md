@@ -106,7 +106,7 @@
 ---
 
 <br>
-
+<!--
 ### 🎯 Recommendation System
 <table>
   <tr>
@@ -124,6 +124,7 @@
 </table>
 
 ---
+-->
 
 <!--
 ### 🛡️ AI Evaluation
