@@ -120,6 +120,13 @@
         <li>Telephony Model <a href="link">↗</a></li>         
     </td>
   </tr>
+  <tr>
+    <td width="500"></td>
+    <td width="500"><b>DeepRL - Conversational Recommendation (2022)</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>RecSys 2022 <a href="https://github.com/omifounder/publications/blob/main/docs/RecSys2022_DeepRL_Conversational_Recommender_System.pdf">↗</a></li>
+    </td>
+  </tr>
 </table>
 
 ---
