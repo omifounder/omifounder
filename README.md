@@ -119,10 +119,13 @@
     </td>
   </tr>
   <tr>
-    <td width="500"></td>
     <td width="500"><b>DeepRL - Conversational Recommendation (2022)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>RecSys 2022 <a href="https://github.com/omifounder/publications/blob/main/docs/RecSys2022_DeepRL_Conversational_Recommender_System.pdf">↗</a></li>
+    </td>
+    <td width="500"><b>Fashion Multimodal Recommendation (2019)</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>TheWeb - WWW 2019 <a href="https://github.com/omifounder/publications/blob/main/docs/TheWeb-www-2019-PersonalisedFashionRecommendationUsingDeepLearning_v2.pdf">↗</a></li>
     </td>
   </tr>
 </table>
