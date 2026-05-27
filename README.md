@@ -53,11 +53,11 @@
 ### 🎭 Conversational AI: ASR + Multimodal
 <table>
   <tr>
-    <td width="500"><b>Voice Agent (2025)</b> <br> 
+    <td width="500"><b>Voice Agent </b> <br> 
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Hinglish ASR Model <a href="link">↗</a></li>
     </td>
-    <td width="500"><b>Multimodal Companion (2025)</b><br>
+    <td width="500"><b>Multimodal Companion </b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Local first - text and voice <a href="https://github.com/omifounder/hi-buddy">↗</a></li>   
     </td>
@@ -67,12 +67,12 @@
 ### 🎙️ Automatic Speech Recognition
 <table>
   <tr>
-    <td width="500"><b>ASR - Hinglish Telephony (2026)</b> <br> 
+    <td width="500"><b>ASR - Hinglish Telephony </b> <br> 
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Hinglish ASR Model <a href="https://github.com/omifounder/ASR-Hinglish-Code-Mixed">↗</a></li>   
       </ul>
     </td>
-    <td width="500"><b>Lean mHuBERT Strategy (2026)</b><br>
+    <td width="500"><b>Lean mHuBERT Strategy </b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Lean mHUBERT <a href="https://github.com/omifounder/ASR-Hinglish-Code-Mixed/tree/main/lean-mhubert">↗</a></li>    
       </ul>
@@ -80,9 +80,9 @@
   </tr>
   
   <tr>
-    <td width="500"><b>Dataset (2026)</b><br>
+    <td width="500"><b>Dataset </b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Dataset Generation Strategy<a href="https://github.com/omifounder/publications/blob/main/docs/IS2021_Concept2Code_%20Semi-Supervised_End-To-End_Approaches_For_Speech_Recognition_v2_om.pdf">↗</a></li>    
+        <li>Dataset Generation Strategy<a href="https://github.com/omifounder/ASR-Hinglish-Code-Mixed/tree/main/data">↗</a></li>    
       </ul>
     </td>
     <td width="500"></td>
