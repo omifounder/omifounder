@@ -96,7 +96,7 @@
     </td>
     <td width="500"><b>Interspeech - Presentation(2021)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li><a href="https://github.com/omifounder/publications/blob/main/docs/IS2021_Concept2Code_%20Semi-Supervised_End-To-End_Approaches_For_Speech_Recognition_v2_om.pdf">Semi-Supervised End-To-End Approaches ↗</a></li>    
+        <li>Semi-Supervised End-To-End Approaches<a href="https://github.com/omifounder/publications/blob/main/docs/IS2021_Concept2Code_%20Semi-Supervised_End-To-End_Approaches_For_Speech_Recognition_v2_om.pdf">↗</a></li>    
       </ul>
     </td>
   </tr>
