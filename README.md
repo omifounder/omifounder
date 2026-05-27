@@ -15,9 +15,9 @@
     </td>
   </tr>
   <tr>
-    <td width="500"><b>Domain Specific Data and Training (phase-2)</b><br>
+    <td width="500"><b>Data Generation and Validation</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>DPO, ORPO, GRPO - 4 open source models <a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/tree/main/dpo-orpo-grpo-part2">↗</a></li>     
+        <li>Domain Specific Data Generation Strategy <a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/tree/main/data">↗</a></li>     
     </td>
     <td width="500"><b>Scaling Evaulation and Findings (phase-3)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
