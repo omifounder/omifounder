@@ -147,9 +147,9 @@
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Based on Top-k Off Policy RL Approach <a href="https://github.com/omifounder/publications/blob/main/docs/RL_Top-k%20Off-Policy_NOTES_Om.pdf">↗</a></li> 
     </td>
-    <td width="500"><b>Top-k Off Policy Resource (2023)</b><br>
+    <td width="500"><b>REINFORCE recommender system (2023)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li> Based on paper <a href="https://arxiv.org/pdf/1812.02353">↗</a></li>      
+        <li> Top-k off-policy correction <a href="https://arxiv.org/pdf/1812.02353">↗</a></li>      
     </td>
   </tr>
   <tr>
