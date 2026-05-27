@@ -110,7 +110,7 @@
     </td>
     <td width="500"><b>Hi-Buddy Multimodal AI Companion </b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Local first - text and voice <a href="https://github.com/omifounder/hi-buddy/tree/main/hi-buddy_mm_ai_companion)">↗</a></li>   
+        <li>Local first - text and voice <a href="https://github.com/omifounder/hi-buddy/tree/main/hi-buddy_mm_ai_companion">↗</a></li>   
     </td>
   </tr>
     <tr>
