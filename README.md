@@ -85,6 +85,7 @@
         <li>Dataset Generation Strategy<a href="https://github.com/omifounder/publications/blob/main/docs/IS2021_Concept2Code_%20Semi-Supervised_End-To-End_Approaches_For_Speech_Recognition_v2_om.pdf">↗</a></li>    
       </ul>
     </td>
+    <td width="500"></td>
  </tr>   
   
   <tr>
