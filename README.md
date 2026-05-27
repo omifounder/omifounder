@@ -9,9 +9,9 @@
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Final Evaluation - DPO and GRPO <a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>     
     </td>
-    <td width="500"><b>Scaling Evaulation and Findings (phase-3)</b><br>
+    <td width="500"><b>Evaluation Summary</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>DPO, ORPO, GRPO - 4 open source models <a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation-Part3/">↗</a></li>
+        <li>DPO, ORPO, GRPO - 4 open source models <a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/tree/main/dpo-orpo-grpo-all-phases">↗</a></li>
     </td>
   </tr>
   <tr>
