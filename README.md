@@ -113,6 +113,13 @@
         <li>Local first - text and voice <a href="https://github.com/omifounder/hi-buddy">↗</a></li>   
     </td>
   </tr>
+    <tr>
+    <td width="500"><b>Multimodal Companion </b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Local first - text and voice <a href="https://github.com/omifounder/hi-buddy">↗</a></li>   
+    </td>
+    <td width="500"></td>
+  </tr>
 </table>
 
 ### 📝 NLP, Transformer, BERT, XL, XLNet: Theory & Resources
