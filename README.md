@@ -145,11 +145,11 @@
   <tr>
     <td width="500"><b>Creator Driven Recommendation (2023)</b> <br> 
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>RL Top-k Off Policy based Recommendation <a href="https://arxiv.org/pdf/1812.02353">↗</a></li> 
+        <li>Based on Top-k Off Policy RL Approach <a href="https://github.com/omifounder/publications/blob/main/docs/RL_Top-k%20Off-Policy_NOTES_Om.pdf">↗</a></li> 
     </td>
-    <td width="500"><b>Top-k Off Policy resources (2023)</b><br>
+    <td width="500"><b>Top-k Off Policy Resource (2023)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li> Additional Resources <a href="https://github.com/omifounder/publications/blob/main/docs/RL_Top-k%20Off-Policy_NOTES_Om.pdf">↗</a></li>      
+        <li> Based on paper <a href="https://arxiv.org/pdf/1812.02353">↗</a></li>      
     </td>
   </tr>
   <tr>
