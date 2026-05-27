@@ -106,7 +106,7 @@
   <tr>
     <td width="500"><b>Voice Agent </b> <br> 
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Hinglish ASR Model <a href="link">↗</a></li>
+        <li>Hinglish ASR Model <a href="https://github.com/omifounder/hi-buddy/tree/main/voice_agent">↗</a></li>
     </td>
     <td width="500"><b>Multimodal Companion </b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
