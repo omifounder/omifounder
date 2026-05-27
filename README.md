@@ -80,10 +80,9 @@
   </tr>
   
   <tr>
-    <td width="500"> </td>
-    <td width="500"><b>Lean mHuBERT Strategy (2026)</b><br>
+    <td width="500"><b>Dataset (2026)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Lean mHUBERT <a href="https://github.com/omifounder/ASR-Hinglish-Code-Mixed/tree/main/lean-mhubert">↗</a></li>    
+        <li>Dataset Generation Strategy<a href="https://github.com/omifounder/publications/blob/main/docs/IS2021_Concept2Code_%20Semi-Supervised_End-To-End_Approaches_For_Speech_Recognition_v2_om.pdf">↗</a></li>    
       </ul>
     </td>
  </tr>   
