@@ -7,7 +7,7 @@
   <tr>
     <td width="500"><b>Buddy - Gemma</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Final Evaluation <a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>     
+        <li>Final Evaluation - DPO and GRPO <a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>     
     </td>
     <td width="500"><b>Scaling Evaulation and Findings (phase-3)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
