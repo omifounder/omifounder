@@ -5,9 +5,9 @@
 ### 😊 On Device - Emotional Intelligence (LLMs and SLMs)
 <table>
   <tr>
-    <td width="500"><b>Evaluation: DPO, ORPO, GRPO (part-4)</b><br>
+    <td width="500"><b>Buddy - Gemma</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Evaluation Summary <a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>     
+        <li>Final Evaluation <a href="https://github.com/omifounder/hi-buddy-DPO-ORPO-GRPO-Prefernce-Optimisation">↗</a></li>     
     </td>
     <td width="500"><b>Benchmarking: DPO, IPO, ORPO, GRPO (part-3)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
