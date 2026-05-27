@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Om - AI-ML Applied Researcher
 
-## 🔬 Areas of Expertise
+# 🔬 Areas of Expertise
 
-### 😊 On Device - Emotional Intelligence (LLMs and SLMs)
+## 😊 On Device - Emotional Intelligence (LLMs and SLMs)
 <table>
   <tr>
     <td width="500"><b>Buddy - Gemma</b><br>
@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-### 🔄 Reinforcement Learning: Theory & Resources
+## 🔄 Reinforcement Learning: Theory & Resources
 <table>
   <tr>
     <td width="500"><b>Preference Optimisation - Concept</b><br>
@@ -60,19 +60,7 @@
 ---
 <br> 
 
-### 🎭 Conversational AI: ASR + Multimodal
-<table>
-  <tr>
-    <td width="500"><b>Voice Agent </b> <br> 
-      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Hinglish ASR Model <a href="link">↗</a></li>
-    </td>
-    <td width="500"><b>Multimodal Companion </b><br>
-      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Local first - text and voice <a href="https://github.com/omifounder/hi-buddy">↗</a></li>   
-    </td>
-  </tr>
-</table>
+## 🎭 Conversational AI: ASR + Multimodal
 
 ### 🎙️ Automatic Speech Recognition
 <table>
@@ -108,6 +96,21 @@
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Semi-Supervised End-To-End Approaches <a href="https://github.com/omifounder/publications/blob/main/docs/IS2021_Concept2Code_%20Semi-Supervised_End-To-End_Approaches_For_Speech_Recognition_v2_om.pdf">↗</a></li>    
       </ul>
+    </td>
+  </tr>
+</table>
+
+### 🎙️ Voice Agent
+
+<table>
+  <tr>
+    <td width="500"><b>Voice Agent </b> <br> 
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Hinglish ASR Model <a href="link">↗</a></li>
+    </td>
+    <td width="500"><b>Multimodal Companion </b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Local first - text and voice <a href="https://github.com/omifounder/hi-buddy">↗</a></li>   
     </td>
   </tr>
 </table>
