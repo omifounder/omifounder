@@ -19,9 +19,9 @@
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>DPO, ORPO, GRPO - 4 open source models <a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/tree/main/dpo-orpo-grpo-part2">↗</a></li>     
     </td>
-    <td width="500"><b>UltraFeedback Comparision (phase-1)</b><br>
+    <td width="500"><b>Scaling Evaulation and Findings (phase-3)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>DPO, IPO, ORPO, Hinge, DPOP<a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/tree/main/dpo-orpo-grpo-part1">↗</a></li>
+        <li>DPO, ORPO, GRPO - 4 open source models <a href="https://github.com/omifounder/Buddy-DPO-ORPO-GRPO-Evaluation-Part3/">↗</a></li>
     </td>
   </tr>
     <tr>
