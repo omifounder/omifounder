@@ -3,7 +3,7 @@
 
 **Navigation:**
 - [🔬 Areas of Expertise](#-areas-of-expertise)
-- [📝 Publications](#-publications)
+- [📝 Publications](#-Selected-Publications)
 - [🔬 Patents](#-patents)
 - [📚 Course Materials](#-course-materials)
 
