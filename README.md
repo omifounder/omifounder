@@ -1,10 +1,7 @@
 # AI-ML Applied Research
 ---
 
-[🔬 Areas of Expertise](#-areas-of-expertise)     
-[🔬 Research Focus](#-research-focus)   
-[📝 Publications](#-Selected-Publications)   
-[🔬 Patents](#-patents)
+[🔬 Areas of Expertise](#-areas-of-expertise)  •  [🔬 Research Focus](#-research-focus) •  [📝 Publications](#-Selected-Publications) •  [🔬 Patents](#-patents)
 
 ---
 
