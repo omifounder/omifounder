@@ -197,8 +197,8 @@
 
 <br>
 
-## 🧠 Research Focus
-### JEPA - Joint Embedding Predictive Architecture 
+# 🧠 Research Focus
+## JEPA - Joint Embedding Predictive Architecture 
 <table>
   <tr>
     <td width="500"><b>V-JEPA2: Self-Supervised Video Models</b> <br> 
@@ -212,7 +212,7 @@
   </tr>
 </table>
 
-### ⚡ EBM approaches for reasoning and decision-making
+## ⚡ EBM approaches for reasoning and decision-making
 <table>
   <tr>
     <td width="500"><b>Energy Based Models</b> <br> 
@@ -230,7 +230,7 @@
 
 <br> 
 
-## 📚 Selected Publications
+# 📚 Selected Publications
 
 | Year | Title | Venue | Paper |
 |------|-------|-------|-------|
@@ -249,9 +249,9 @@
 
 <br>
 
-## 🔬 Patents
+# 🔬 Patents
 
-### Granted
+## Granted
 
 - **Conversational AI System and Method** - Indian Patent No. 527909 (2024)  
   *Innovation in conversational AI for e-commerce applications at Flipkart*
@@ -268,7 +268,7 @@
 - **Fun with Chess** - US Patent Application No. US20140225323 [↗](https://patents.google.com/patent/US20140225323)  
   *Game innovation and interactive chess system*
 
-### Under Review
+## Under Review
 
 - **System and Method for Automatically Providing a Response to One or More User Utterances** - Indian Patent Application No. 202241033766  
   *Automated multi-turn conversational response system*
