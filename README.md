@@ -147,7 +147,7 @@
 
 <br>
 
-### 🎯 Recommendation System (RL + Multimodal)
+## 🎯 Recommendation System (RL + Multimodal)
 <table>
   <tr>
     <td width="500"><b>Creator Driven Recommendation</b> <br> 
