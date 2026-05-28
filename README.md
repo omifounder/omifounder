@@ -1,4 +1,13 @@
 # 🔬 AI-ML Applied Research - Areas of Expertise
+---
+
+**Navigation:**
+- [🔬 Areas of Expertise](#-areas-of-expertise)
+- [📝 Publications](#-publications)
+- [🔬 Patents](#-patents)
+- [📚 Course Materials](#-course-materials)
+
+---
 
 ## 😊 On Device - Emotional Intelligence (LLMs and SLMs)
 <table>
