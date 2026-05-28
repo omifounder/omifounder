@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Om - AI-ML Applied Researcher
-
-# 🔬 Areas of Expertise
+# 🔬 AI-ML Applied Research - Areas of Expertise
 
 ## 😊 On Device - Emotional Intelligence (LLMs and SLMs)
 <table>
