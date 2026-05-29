@@ -285,7 +285,7 @@
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>PPO, DPO, ORPO, GRPO - Notes <a href="https://github.com/omifounder/SFT-PO-RLHF-RLAIF/blob/main/dpo-orpo-grpo/">↗</a></li>     
     </td>
-    <td width="500"><b>RL Couse Notes (2021)</b><br>
+    <td width="500"><b>RL Couse Notes - 2021 (300+ pages)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Prof. Balaraman Ravindran, IIT <a href="https://github.com/omifounder/RL-Course-Notes">↗</a></li>
     </td>
@@ -305,7 +305,7 @@
 ## NLP
 <table>
   <tr>
-    <td width="500"><b>NLP Couse Notes (2021)</b><br>
+    <td width="500"><b>NLP Couse Notes - 2021 (300+ pages)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Prof. Pawan Goayl, IIT <a href="https://github.com/omifounder/NLP-course-notes">↗</a></li>
     </td>
