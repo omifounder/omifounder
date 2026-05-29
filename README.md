@@ -285,28 +285,22 @@
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>PPO, DPO, ORPO, GRPO - Notes <a href="https://github.com/omifounder/SFT-PO-RLHF-RLAIF/blob/main/dpo-orpo-grpo/">↗</a></li>     
     </td>
-    <td width="500"><b>Deep RL for Conversational AI (2022)</b><br>
-      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>KDD 2022 <a href="https://github.com/omifounder/publications/blob/main/docs/KDD2022_DeepRL_for_Conversational_AI-%20Handson_Tutorial_v2.pdf">↗</a></li>
-    </td>
-  </tr>
-  <tr>
-    <td width="500"></td>
+        <td width="500"></td>
     <td width="500"><b>RL Couse Notes (2021)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Prof. Balaraman Ravindran, IIT <a href="https://github.com/omifounder/RL-Course-Notes">↗</a></li>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td width="500"></td>
-     <td width="500"><b>DeepRL - Conversational Recommendation (2022)</b><br>
+<td width="500"><b>Deep RL for Conversational AI (2022)</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>KDD 2022 <a href="https://github.com/omifounder/publications/blob/main/docs/KDD2022_DeepRL_for_Conversational_AI-%20Handson_Tutorial_v2.pdf">↗</a></li>
+    </td>
+   <td width="500"><b>DeepRL - Conversational Recommendation (2022)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>RecSys 2022 <a href="https://github.com/omifounder/publications/blob/main/docs/RecSys2022_DeepRL_Conversational_Recommender_System.pdf">↗</a></li>
     </td>
-      </tr>
+  </tr>
 </table>
 
 ## NLP
