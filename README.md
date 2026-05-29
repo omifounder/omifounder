@@ -319,7 +319,11 @@
 ## ASR
 <table>
   <tr>
-    <td width="500"></td>
+ <td width="500"><b>ASR Research Summary (2021)</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Classical to Transformer approaches <a href="https://github.com/omifounder/research/blob/main/ASR_Research_Summary_2021.pdf">↗</a></li>    
+      </ul>
+    </td>
     <td width="500"><b>Interspeech (2021)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Semi-Supervised End-To-End Approaches <a href="https://github.com/omifounder/publications/blob/main/docs/IS2021_Concept2Code_%20Semi-Supervised_End-To-End_Approaches_For_Speech_Recognition_v2_om.pdf">↗</a></li>    
