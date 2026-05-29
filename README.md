@@ -285,7 +285,6 @@
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>PPO, DPO, ORPO, GRPO - Notes <a href="https://github.com/omifounder/SFT-PO-RLHF-RLAIF/blob/main/dpo-orpo-grpo/">↗</a></li>     
     </td>
-        <td width="500"></td>
     <td width="500"><b>RL Couse Notes (2021)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Prof. Balaraman Ravindran, IIT <a href="https://github.com/omifounder/RL-Course-Notes">↗</a></li>
