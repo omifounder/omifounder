@@ -278,6 +278,7 @@
 ---
 
 # LLM, RL, NLP Theory & Resources
+## LLM, RL
 <table>
   <tr>
     <td width="500"><b>Preference Optimisation - Concept</b><br>
@@ -307,7 +308,8 @@
     </td>
       </tr>
 </table>
-         
+
+## NLP
 <table>
   <tr>
     <td width="500"><b>NLP Couse Notes (2021)</b><br>
@@ -321,6 +323,7 @@
   </tr>
 </table>
 
+## ASR
 <table>
   <tr>
     <td width="500"></td>
