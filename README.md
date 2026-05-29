@@ -1,7 +1,7 @@
 # AI-ML Applied Research
 ---
 
-[🔬 Areas of Expertise](#-areas-of-expertise)  •  [🧠 Research Focus](#-research-focus)  •  [📚 Publications](#-selected-publications)  •  [💡 Patents](#-patents)
+[🔬 Areas of Expertise](#-areas-of-expertise)  •  [🧠 Research Focus](#-research-focus)  •  [📚 Publications](#-selected-publications)  •  [💡 Patents](#-patents)  •  [💡 LLM-RL-NLP Theory and Notes](#-llm-rl-nlp-theory-&-notes)
 
 ---
 
@@ -277,7 +277,7 @@
 
 ---
 
-# LLM, RL, NLP Theory & Resources
+# LLM RL NLP Theory & Notes
 ## LLM, RL
 <table>
   <tr>
