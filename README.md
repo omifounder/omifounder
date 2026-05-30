@@ -309,7 +309,7 @@
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Prof. Pawan Goayl, IIT <a href="https://github.com/omifounder/NLP-course-notes">↗</a></li>
     </td>
-    <td width="500"><b>Attentions </b><br>
+    <td width="500"><b>Multi-Head Attentions </b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Cheat Sheet <a href="https://github.com/omifounder/llm-slm/tree/main">↗</a> Code <a href="https://colab.research.google.com/drive/1JakZMiFT1zSJCpvW4mkWCEhfq3JR8beI?authuser=1">↗</a></li>
     </td>
