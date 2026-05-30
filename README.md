@@ -305,6 +305,16 @@
 ## NLP
 <table>
   <tr>
+    <td width="500"><b>LLMs - SLMs ToDo</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Prof. Pawan Goayl, IIT <a href="https://github.com/omifounder/NLP-course-notes">↗</a></li>
+    </td>
+    <td width="500"><b>Attentions </b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Cheat Seet<a href="https://github.com/omifounder/llm-slm/tree/main">↗</a></li>
+    </td>
+  </tr>
+  <tr>
     <td width="500"><b>NLP Couse Notes - 2021 (300+ pages)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Prof. Pawan Goayl, IIT <a href="https://github.com/omifounder/NLP-course-notes">↗</a></li>
