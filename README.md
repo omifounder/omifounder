@@ -14,9 +14,9 @@
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>PPO, DPO, ORPO, GRPO - Notes <a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/blob/main/0_BuddyPPOGRPO_buddy_post_training_unified_7Aug2026_FINAL_3.md/">↗</a></li>     
     </td>
-    <td width="500"><b>Deep RL for Conversational AI (2022)</b><br>
+    <td width="500"><b>PPO-GRPO Design (Part-2)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>KDD 2022 <a href="https://github.com/omifounder/publications/blob/main/docs/KDD2022_DeepRL_for_Conversational_AI-%20Handson_Tutorial_v2.pdf">↗</a></li>
+        <li>Design Walkthrough<a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/blob/main/0_BuddyPPOGRPO_buddy_design_walkthrough_withOmiFounder_GITHUB_7Aug2026_2.md">↗</a></li>
     </td>
   </tr>
   <tr>
