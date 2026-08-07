@@ -341,9 +341,10 @@
     </td>
   </tr>
 </table>
+
 ---
 
-## 🔄 Buddy PPO-GRPO-DPO
+## 🔄 Buddy PPO-GRPO-DPO - OM
 <table>
   <tr>
     <td width="500"><b>PPO-GRPO with Buddy (Part-3)</b><br>
