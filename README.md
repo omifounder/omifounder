@@ -6,28 +6,7 @@
 ---
 
 # 🔬 Areas of Expertise
-
-## 🔄 Buddy PPO-GRPO-DPO
-<table>
-  <tr>
-    <td width="500"><b>PPO-GRPO with Buddy (Part-3)</b><br>
-      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>PPO, DPO, ORPO, GRPO - Notes <a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/blob/main/0_BuddyPPOGRPO_buddy_post_training_unified_7Aug2026_FINAL_3.md/">↗</a></li>     
-    </td>
-    <td width="500"><b>PPO-GRPO Design (Part-2)</b><br>
-      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Design Walkthrough<a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/blob/main/0_BuddyPPOGRPO_buddy_design_walkthrough_withOmiFounder_GITHUB_7Aug2026_2.md">↗</a></li>
-    </td>
-  </tr>
-  <tr>
-    <td width="500"></td>
-    <td width="500"><b>PPO-GRPO Theory (Part-1)</b><br>
-      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Theory Review <a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/blob/main/0_BuddyPPO_GRPO_post_training_value_model_study_pack_7Aug_1.md">↗</a></li>
-    </td>
-  </tr>
-</table>
-   
+  
 ## 😊 On Device - Emotional Intelligence (LLMs and SLMs)
 <table>
   <tr>
@@ -362,6 +341,27 @@
     </td>
   </tr>
 </table>
+---
 
+## 🔄 Buddy PPO-GRPO-DPO
+<table>
+  <tr>
+    <td width="500"><b>PPO-GRPO with Buddy (Part-3)</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>PPO, DPO, ORPO, GRPO - Notes <a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/blob/main/0_BuddyPPOGRPO_buddy_post_training_unified_7Aug2026_FINAL_3.md/">↗</a></li>     
+    </td>
+    <td width="500"><b>PPO-GRPO Design (Part-2)</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Design Walkthrough<a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/blob/main/0_BuddyPPOGRPO_buddy_design_walkthrough_withOmiFounder_GITHUB_7Aug2026_2.md">↗</a></li>
+    </td>
+  </tr>
+  <tr>
+    <td width="500"></td>
+    <td width="500"><b>PPO-GRPO Theory (Part-1)</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Theory Review <a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/blob/main/0_BuddyPPO_GRPO_post_training_value_model_study_pack_7Aug_1.md">↗</a></li>
+    </td>
+  </tr>
+</table>
 
 ---
