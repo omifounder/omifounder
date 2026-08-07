@@ -21,9 +21,9 @@
   </tr>
   <tr>
     <td width="500"></td>
-    <td width="500"><b>RL Couse Notes (2021)</b><br>
+    <td width="500"><b>PPO-GRPO Theory (Part-1)</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Prof. Balaraman Ravindran, IIT <a href="https://github.com/omifounder/RL-Course-Notes">↗</a></li>
+        <li>Theory Review <a href="https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/blob/main/0_BuddyPPO_GRPO_post_training_value_model_study_pack_7Aug_1.md">↗</a></li>
     </td>
   </tr>
 </table>
