@@ -1,4 +1,4 @@
-# AI-ML Applied Research
+# AI-ML Applied Consultancy and Research 
 ---
 
 [🔬 Areas of Expertise](#-areas-of-expertise)  •  [🧠 Research Focus](#-research-focus)  •  [📚 Publications](#-selected-publications)  •  [💡 Patents](#-patents)  •  [📝 Courses and Theory ](#-LLM-RL-NLP-Courses-Theory-Notes)
