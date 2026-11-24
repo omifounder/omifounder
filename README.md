@@ -4,7 +4,19 @@
 [🔬 Areas of Expertise](#-areas-of-expertise)  •  [🧠 Research Focus](#-research-focus)  •  [📚 Publications](#-selected-publications)  •  [💡 Patents](#-patents)  •  [📝 Courses and Theory ](#-LLM-RL-NLP-Courses-Theory-Notes)
 
 ---
-
+# 🔬 Recent Hackathon - OpenAI, Mistral
+<table>
+  <tr>
+    <td width="500"><b>Mistral Agent Mind</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Mistral Agent Mind<a href="https://github.com/omifounder/mistral_mind_agent">↗</a></li>     
+    </td>
+    <td width="500"><b>Pet-Art-Fun-Multiagent-Framework</b><br>
+      <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+        <li>Pet-Art-Fun-Multiagent-Framework<a href="[https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/tree/main/dpo-orpo-grpo-all-phases](https://github.com/omifounder/Pet-Art-Fun-Multiagent-Framework">↗</a></li>
+    </td>
+  </tr>
+</table>
 # 🔬 Areas of Expertise
   
 ## 😊 On Device - Emotional Intelligence (LLMs and SLMs)
