@@ -11,9 +11,9 @@
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
         <li>Mistral Agent Mind<a href="https://github.com/omifounder/mistral_mind_agent">↗</a></li>     
     </td>
-    <td width="500"><b>Mistral Agent Mind - Mistral </b><br>
+    <td width="500"><b>Pet Art Fun - Multiagent Framework </b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Mistral Agent Mind<a href="https://github.com/omifounder/mistral_mind_agent">↗</a></li>     
+        <li>Multiagent Framework<a href="https://github.com/omifounder/Pet-Art-Fun-Multiagent-Framework">↗</a></li>     
     </td>
   </tr>
 </table>
