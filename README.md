@@ -13,7 +13,7 @@
     </td>
     <td width="500"><b>Pet-Art-Fun-Multiagent-Framework - OpenAI</b><br>
       <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
-        <li>Pet-Art-Fun-Multiagent-Framework<a href="[https://github.com/omifounder/Buddy-Gemma-On-Device-Emotional-Intelligence/tree/main/dpo-orpo-grpo-all-phases](https://github.com/omifounder/Pet-Art-Fun-Multiagent-Framework">↗</a></li>
+        <li>Pet-Art-Fun-Multiagent-Framework<a href="https://github.com/omifounder/Pet-Art-Fun-Multiagent-Framework</a></li>
     </td>
   </tr>
 </table>
